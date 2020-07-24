@@ -1,0 +1,6 @@
+framework module Pods_GiftdApp_GiftdAppUITests {
+  umbrella header "Pods-GiftdApp-GiftdAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
